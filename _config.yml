@@ -1,18 +1,9 @@
-# Site Settings
-
-title: Chris's Site
-kicker: "Mind // Body // Soul"
-
 # Build settings
 
 markdown: kramdown
 permalink: pretty
-highlighter: rouge
 
-port: 8080
-
-include: ['_includes/work']
-exclude: ['the_design.psd']
+port: 3000
 
 sass:
   sass_dir: assets/css
